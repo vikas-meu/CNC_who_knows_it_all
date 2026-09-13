@@ -1,7 +1,7 @@
 # OpenClaw CNC
 
 ## AI-Powered Whiteboard Plotter on Arduino UNO Q
-
+![OpenClaw CNC](images/openclaw-cnc.jpg)
 OpenClaw CNC is an AI-powered physical whiteboard plotter built around the Arduino UNO Q.
 
 It allows users to control a real CNC plotter using natural-language instructions. Instead of displaying an AI response on a screen, the system physically writes text and draws images on a whiteboard using a marker.
