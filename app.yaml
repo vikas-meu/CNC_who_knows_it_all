@@ -1,0 +1,6 @@
+name: CNC_who_know_it_all
+description: "Pen plotter/whiteboard writer: type-and-plot web terminal, image drawing, self-cleaning, daily scheduled writes, and a write_text hook for external agents (OpenClaw + Telegram)"
+ports:
+- 5000
+bricks: []
+icon: 🖊️
